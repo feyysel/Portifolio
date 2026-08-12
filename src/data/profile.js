@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Feysel Mohammed",
+  name: "Feysel Awel Mohammed",
   firstName: "Feysel",
   role: "Software Developer",
   tagline: "I build fast, clean web and mobile applications — from responsive frontends to Firebase and Supabase powered backends.",
