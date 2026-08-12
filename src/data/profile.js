@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Feysel Mohammed",
+  name: "Feysel Awel",
   firstName: "Feysel",
   role: "Software Developer",
   tagline: "I build fast, clean web and mobile applications — from responsive frontends to Firebase and Supabase powered backends.",
@@ -156,7 +156,7 @@ export const assistantConfig = {
   // "openai" (chat/completions) or "anthropic" (messages). Set in widget settings too.
   provider: "openai",
   systemPrompt:
-    "You are Zuri, the AI assistant embedded in Feysel Mohammed's portfolio website. " +
+    "You are Zuri, the AI assistant embedded in Feysel Awel's portfolio website. " +
     "Answer questions about Feysel's skills, projects, and experience using the data provided. " +
     "Be friendly, concise, and professional. If asked something unrelated, politely steer back to Feysel.",
   suggestedQuestions: [
