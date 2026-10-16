@@ -62,12 +62,23 @@ export const profile = {
   ],
   projects: [
     {
+      title: "Restaurant Management System",
+      description:
+        "An all-in-one restaurant platform that digitalizes the full flow — from browsing the menu and ordering to the kitchen display and final payment.",
+      tags: ["Full Stack", "Menu", "Kitchen Display", "Payments"],
+      icon: "utensils",
+      link: "https://rms-full-ownership.vercel.app",
+      featured: true,
+      accent: "from-rose-500 to-amber-500",
+    },
+    {
       title: "Smart Parking Management System",
       description:
         "Helps drivers find, reserve, and pay for parking spots in real time, with a clean dashboard for lot owners.",
       tags: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
       icon: "car",
       link: "#",
+      locked: true,
       featured: true,
       accent: "from-violet-500 to-fuchsia-500",
     },
@@ -88,6 +99,7 @@ export const profile = {
       tags: ["Flutter", "Dart", "Firebase"],
       icon: "users",
       link: "#",
+      locked: true,
       featured: true,
       accent: "from-emerald-400 to-teal-500",
     },
@@ -98,6 +110,7 @@ export const profile = {
       tags: ["Flutter", "Dart", "Supabase"],
       icon: "layers",
       link: "#",
+      locked: true,
       featured: false,
       accent: "from-amber-400 to-orange-500",
     },

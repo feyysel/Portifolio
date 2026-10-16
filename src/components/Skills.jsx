@@ -7,7 +7,7 @@ const categoryIcons = { code: Code2, sparkles: Sparkles, cog: Cog, mobile: Smart
 
 export default function Skills() {
   return (
-    <Section id="skills" eyebrow="02 · Skills" title="My technical arsenal">
+    <Section id="skills" eyebrow="02 · Skills" title="My technical skills">
       <div className="grid gap-6 md:grid-cols-3">
         {profile.skills.map((group, gi) => {
           const Icon = categoryIcons[group.icon] || Code2
