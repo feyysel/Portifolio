@@ -15,6 +15,7 @@ export const profile = {
     { label: "GitHub", href: "https://github.com/feyysel", icon: "github" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/feysel-awel-39583a323", icon: "linkedin" },
     { label: "Telegram", href: "https://t.me/Feyyssel", icon: "telegram" },
+    { label: "Upwork", href: "https://www.upwork.com/freelancers/~018dc8ab524db4ea4e?mp_source=share", icon: "upwork" },
   ],
   stats: [
     { value: 5, suffix: "+", label: "Projects Built" },
@@ -26,7 +27,7 @@ export const profile = {
     "Software Developer",
     "Web Developer",
     "Flutter Developer",
-    "Backend Developer",
+    "Full Stack Developer",
   ],
   about:
     "I'm Feysel, a 4th year Software Engineering student at Dire Dawa University who enjoys building practical software from start to finish. I work across the stack — crafting responsive frontends with HTML, CSS, and JavaScript, powering them with PHP, SQL, Firebase, and Supabase backends, and shipping cross-platform mobile apps with Flutter and Dart. I care about clean code and products that actually solve problems.",
