@@ -66,11 +66,21 @@ export const profile = {
       title: "Restaurant Management System",
       description:
         "An all-in-one restaurant platform that digitalizes the full flow — from browsing the menu and ordering to the kitchen display and final payment.",
-      tags: ["Full Stack", "Menu", "Kitchen Display", "Payments"],
+      tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma ORM", "Menu", "Kitchen Display", "Payments"],
       icon: "utensils",
       link: "https://rms-full-ownership.vercel.app",
       featured: true,
       accent: "from-rose-500 to-amber-500",
+    },
+    {
+      title: "Guest House Management System",
+      description:
+        "A platform for managing guest house operations — from room bookings and guest records to check-ins and payments.",
+      tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma ORM"],
+      icon: "users",
+      link: "https://guest-house-management-system-delta.vercel.app/",
+      featured: true,
+      accent: "from-indigo-500 to-purple-500",
     },
     {
       title: "Smart Parking Management System",
